@@ -1,7 +1,9 @@
 h1{
-    color: blue;
+    color:blue;
 }
 
 .listone li{
-    color: yellow;
+    color: aquamarine;
+    list-style-type:square;
 }
+
