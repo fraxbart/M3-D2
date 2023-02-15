@@ -1,8 +1,9 @@
 h1{
-    color:red
+    color:blue;
 }
 
-.lista1 li{
+.listone li{
     color: aquamarine;
     list-style-type:square;
 }
+
